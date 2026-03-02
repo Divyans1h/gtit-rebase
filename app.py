@@ -1,8 +1,10 @@
-hello 
-i am divyansh
-<<<<<<< HEAD
-divyansh use windows
-=======
-hey 
-i am demon
->>>>>>> ae7f69bbfa410b490d1dca369d2eb23f5b6556da
+a = 10
+
+b = 10
+
+sum_result = a + b
+product_result = a * b
+
+print("Sum:", sum_result)
+print("Product:", product_result)
+
